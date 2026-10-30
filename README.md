@@ -41,7 +41,7 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
-<h3>Program</h3>
+<h3>Program:</h3>
 
 ```
 import random
@@ -116,11 +116,11 @@ if __name__ == "__main__":
     health_monitoring_agent.monitor_health()
 ```
 
-<h3>Output</h3>
+<h3>Output:</h3>
 
 <img width="848" height="213" alt="685617162-a2833998-976b-47b8-b2b7-635d3a39746f" src="https://github.com/user-attachments/assets/47b9705e-6ebb-4148-8dca-52d972ee0059" />
 
-<h3>Result</h3>
+<h3>Result:</h3>
 
 Thus, developed AI agent with PEAS.
 
