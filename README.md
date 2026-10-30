@@ -120,3 +120,7 @@ if __name__ == "__main__":
 
 <img width="848" height="213" alt="685617162-a2833998-976b-47b8-b2b7-635d3a39746f" src="https://github.com/user-attachments/assets/47b9705e-6ebb-4148-8dca-52d972ee0059" />
 
+<h3>Result</h3>
+
+Thus, developed AI agent with PEAS.
+
